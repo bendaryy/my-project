@@ -1,1 +1,0 @@
-this is the javascript file that i pushed in the project
